@@ -51,3 +51,6 @@ print(str1[0])
 print(str1[0:3])
 print(str1[-1])
 print(str1[1:])
+
+a= 9989.01
+print(f"{a:,}")

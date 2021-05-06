@@ -44,3 +44,24 @@ list10 = list(tuple1)
 print(list10)
 
 # 3.딕셔너리
+
+
+# 소스올리기
+# S D:\KISWIRE> git init   ** 초기화는 한번만...
+# Initialized empty Git repository in D:/KISWIRE/.git/
+# PS D:\KISWIRE> git add .
+# PS D:\KISWIRE> git commit -m "1.파이선 변수, 리스트, 튜플"
+#  3 files changed, 124 insertions(+)
+#  create mode 100644 LEVEL1/ex1.py
+#  create mode 100644 LEVEL1/ex2.py
+#  create mode 100644 LEVEL1/ex3.py
+# PS D:\KISWIRE> git log
+# commit b88d21f3a5f6ee8ca14bee6bd1e81f62892a52cd (HEAD -> master)
+# Author: ssar@nate.com <ssar@nate.com>
+# Date:   Tue May 4 17:46:20 2021 +0900
+
+#     1.파이선 변수, 리스트, 튜플
+# PS D:\KISWIRE> git remote add origin https://github.com/GREATSHIN2000/python-study.git
+# PS D:\KISWIRE> 
+
+# PS D:\KISWIRE> git push origin master
